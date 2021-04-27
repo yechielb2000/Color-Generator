@@ -1,13 +1,10 @@
 package ColorGeneratorPackage;
 
 import javax.swing.*;
-import javax.swing.border.Border;
 import javax.swing.border.EtchedBorder;
-import javax.swing.event.ChangeListener;
 import java.awt.*;
 
 public class WindowPanel extends JPanel {
-
 
     public WindowPanel() {
 
