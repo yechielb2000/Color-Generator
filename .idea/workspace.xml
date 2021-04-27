@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b0e57a8-9517-4a80-9f79-aa4a5babed8d" name="Default Changelist" comment="" />
+    <list default="true" id="4b0e57a8-9517-4a80-9f79-aa4a5babed8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ColorGenerator/ColorGeneratorPackage/WindowPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ColorGenerator/ColorGeneratorPackage/WindowPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ColorGeneratorPackage/SliderListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColorGeneratorPackage/SliderListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ColorGeneratorPackage/WindowPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColorGeneratorPackage/WindowPanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rl4Q2kBilUhWdCD8Il5q3WcNIq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -72,22 +83,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1619540731014" />
-    <state width="1493" height="418" key="GridCell.Tab.0.bottom" timestamp="1619541759475">
+    <state width="1493" height="418" key="GridCell.Tab.0.bottom" timestamp="1619545475240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="418" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619541759475" />
-    <state width="1493" height="418" key="GridCell.Tab.0.center" timestamp="1619541759475">
+    <state width="1493" height="418" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619545475240" />
+    <state width="1493" height="418" key="GridCell.Tab.0.center" timestamp="1619545475240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="418" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619541759475" />
-    <state width="1493" height="418" key="GridCell.Tab.0.left" timestamp="1619541759475">
+    <state width="1493" height="418" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619545475240" />
+    <state width="1493" height="418" key="GridCell.Tab.0.left" timestamp="1619545475240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="418" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619541759475" />
-    <state width="1493" height="418" key="GridCell.Tab.0.right" timestamp="1619541759475">
+    <state width="1493" height="418" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619545475240" />
+    <state width="1493" height="418" key="GridCell.Tab.0.right" timestamp="1619545475240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="418" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619541759475" />
+    <state width="1493" height="418" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619545475240" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1619545390501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619545390501" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1619545390501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1619545390501" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1619545390501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1619545390501" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1619545390501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1619545390501" />
     <state x="511" y="33" key="refactoring.ChangeSignatureDialog" timestamp="1619540676035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
